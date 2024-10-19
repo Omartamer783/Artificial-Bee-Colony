@@ -1,0 +1,25 @@
+ 
+Function                 Mean                     Standard deviation       
+rastrigin_function       -0.00030969, 0.00049777  0.00239222, 0.00157825   
+Shpere                   -0.00015830, 0.00024249  0.00169937, 0.00114867   
+Ackley_function          -0.00018416, 0.00020838  0.00176653, 0.00171017   
+Function                 Mean                     Standard deviation       
+rastrigin_function       -0.00000007, 0.00000016  0.00000183, 0.00000169   
+Shpere                   -0.00000002, 0.00000007  0.00000130, 0.00000120   
+Ackley_function          -0.00000000, 0.00000007  0.00000111, 0.00000102   
+Function                 Mean                     Standard deviation       
+rastrigin_function       -0.00000008, 0.00000001  0.00000076, 0.00000105   
+Shpere                   -0.00000003, 0.00000000  0.00000054, 0.00000075   
+Ackley_function          -0.00000002, 0.00000001  0.00000046, 0.00000068   
+Function                 Mean                     Standard deviation       
+rastrigin_function       0.00000004, 0.00000000   0.00000021, 0.00000016   
+Shpere                   0.00000002, 0.00000000   0.00000015, 0.00000011   
+Ackley_function          0.00000001, 0.00000000   0.00000012, 0.00000009   
+Function                 Mean                     Standard deviation       
+rastrigin_function       -0.00000001, -0.00000000 0.00000003, 0.00000000   
+Shpere                   -0.00000000, -0.00000000 0.00000002, 0.00000001   
+Ackley_function          -0.00000000, -0.00000000 0.00000002, 0.00000001   
+Function                 Mean                     Standard deviation       
+rastrigin_function       -0.00000001, -0.00000000 0.00000003, 0.00000000   
+Shpere                   -0.00000000, -0.00000000 0.00000002, 0.00000001   
+Ackley_function          -0.00000000, -0.00000000 0.00000002, 0.00000001   
